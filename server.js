@@ -9,7 +9,7 @@ app.use(express.json());
 
 //cors 
 const corsOptions = {
-    origin: process.env.Allowed_Clients.split(',');
+    origin: process.env.Allowed_Clients.split(',')
 
 }
 const connectDB = require('./config/db');
