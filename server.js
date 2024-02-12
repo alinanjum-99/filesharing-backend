@@ -6,9 +6,13 @@ const path = require('path');
 const cors = require('cors');
 app.use(express.static('public'));
 app.use(express.json());
+const cors = require('cors');
 
+//cors 
+const corsOptions = {
+    origin: process.env.Allowed_Clients.split(',');
 
-
+}
 const connectDB = require('./config/db');
 connectDB();
 app.set('views', path.join(__dirname, '/views'));
@@ -19,6 +23,7 @@ app.set('view engine', 'ejs');
 app.use('/api/files', require('./routes/files'));
 app.use('/files', require('./routes/show'));
 app.use('/files/download', require('./routes/download'));
+app.use(cors(corsOptions));
 
 
 
