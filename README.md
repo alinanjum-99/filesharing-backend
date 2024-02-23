@@ -1,5 +1,6 @@
 File Sharing Web Application Backend
-Welcome to the backend repository of our file sharing web application! This repository contains the server-side code necessary to power our file sharing platform. Our application allows users to securely share files with others by generating download links via Brevo or by downloading files directly using the provided link.
+
+*Welcome to the backend repository of our file sharing web application! This repository contains the server-side code necessary to power our file sharing platform. Our application allows users to securely share files with others by generating download links via Brevo or by downloading files directly using the provided link.
 
 -Technologies Used
 -Node.js: We have utilized Node.js for building the backend server and handling server-side logic.
