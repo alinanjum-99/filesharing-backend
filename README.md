@@ -14,6 +14,6 @@ Nodemon: Nodemon is used for automatically restarting the server during developm
 
 hTML & CSS: Although this repository primarily focuses on the backend logic, HTML and CSS are essential components for building the frontend interface.</p7>
 
-Insomnia: Insomnia was utilized for testing the RESTful APIs during development, ensuring reliability and functionality.</p1>
+Insomnia: Insomnia was utilized for testing during development, ensuring reliability and functionality.</p1>
 
 <p2>
