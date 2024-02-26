@@ -16,4 +16,4 @@ Technologies Used
 
 * Insomnia: Insomnia was utilized for testing during development, ensuring reliability and functionality.
 
-![] (images/download%20page%20using%20insomnia.png)
+![](images/download%20page%20using%20insomnia.png)
