@@ -15,9 +15,21 @@ Technologies Used
 * hTML & CSS: Although this repository primarily focuses on the backend logic, HTML and CSS are essential components for building the frontend interface.
 
 * Insomnia: Insomnia was utilized for testing during development, ensuring reliability and functionality.
+
+# Uploading file !
 ![](images/file%20upload.png)
+
+# Download Req Using Insomnia 
 ![](images/download%20page%20using%20insomnia.png)
+
+# Download Page Online
 ![](images/download%20page.png)
+
+# Email Req Using Insomnia
 ![](images/email%20sent%20using%20insomnia.png)
+
+#Email Sent
 ![](images/email%20sent.png)
+
+#live server hosted Using Render.com
 ![](images/live%20server%20hosting.png)
