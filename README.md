@@ -1,20 +1,17 @@
 # File Sharing Web Application Backend
 
-Welcome to the backend repository of our file sharing web application! This repository contains the server-side code necessary to power our file sharing platform. Our application allows users to securely share files with others by generating download links via Brevo or by downloading files directly using the provided link.
+Welcome to the backend repository of our file sharing web application! This application allows users to securely share files with others through a simple and intuitive interface. Our backend is built using Node.js, MongoDB Atlas for database management, Express for handling HTTP requests, and Nodemon for automatic server restarts during development. We've also used HTML and CSS for frontend components and tested our endpoints using the Insomnia API client.
 
-Technologies Used
+Features
 
-* Node.js: We have utilized Node.js for building the backend server and handling server-side logic.
-
-* MongoDB Atlas: MongoDB Atlas serves as our cloud-hosted database solution for storing user data and file information.
-
-* Express.js: We've employed Express.js to create robust and efficient RESTful APIs for handling file operations and user interactions.
-
-* Nodemon: Nodemon is used for automatically restarting the server during development, ensuring smooth workflow.
-
-* hTML & CSS: Although this repository primarily focuses on the backend logic, HTML and CSS are essential components for building the frontend interface.
-
-* Insomnia: Insomnia was utilized for testing during development, ensuring reliability and functionality.
+* Secure File Sharing: Users can securely upload files and share them with others using unique download links.
+* BrevQ Integration: The application seamlessly integrates with BrevQ to send download links to recipients.
+* Node.js: Built on the Node.js platform, providing a scalable and efficient backend infrastructure.
+* MongoDB Atlas: Database management handled by MongoDB Atlas, ensuring reliable data storage and retrieval.
+* Express Framework: Utilizes Express for handling HTTP requests, simplifying routing and middleware management.
+* Nodemon: Development made easy with Nodemon, which automatically restarts the server upon file changes.
+* HTML & CSS: Simple and elegant user interface crafted with HTML and CSS for a smooth user experience.
+* Insomnia Testing: Endpoints thoroughly tested using the Insomnia API client to ensure reliability and functionality.
 
 # Uploading file !
 ![](images/file%20upload.png)
