@@ -5,7 +5,10 @@ Welcome to the backend repository of our file sharing web application! This appl
 Features
 
 * Secure File Sharing: Users can securely upload files and share them with others using unique download links.
-* BrevQ Integration: The application seamlessly integrates with BrevQ to send download links to recipients.
+  this was made possible by generating unique UUID for each file that will be uploaded.
+* Brevo Integration: The application seamlessly integrates with Brevo's api to send download links to recipients via 
+  email.
+
 * Node.js: Built on the Node.js platform, providing a scalable and efficient backend infrastructure.
 * MongoDB Atlas: Database management handled by MongoDB Atlas, ensuring reliable data storage and retrieval.
 * Express Framework: Utilizes Express for handling HTTP requests, simplifying routing and middleware management.
