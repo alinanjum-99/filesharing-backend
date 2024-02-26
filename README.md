@@ -28,8 +28,8 @@ Technologies Used
 # Email Req Using Insomnia
 ![](images/email%20sent%20using%20insomnia.png)
 
-#Email Sent
+# Email Sent
 ![](images/email%20sent.png)
 
-#live server hosted Using Render.com
+# live server hosted Using Render.com
 ![](images/live%20server%20hosting.png)
