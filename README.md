@@ -32,3 +32,7 @@ Features
 
 # live server hosted Using Render.com
 ![](images/live%20server%20hosting.png)
+
+
+# recent addition of CORS in order for front end to be linked to the backend.
+however I am at this current moment trouble shooting the errors associated with it.
