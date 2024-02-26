@@ -8,13 +8,12 @@ Features
   this was made possible by generating unique UUID for each file that will be uploaded.
 * Brevo Integration: The application seamlessly integrates with Brevo's api to send download links to recipients via 
   email.
-
 * Node.js: Built on the Node.js platform, providing a scalable and efficient backend infrastructure.
-* MongoDB Atlas: Database management handled by MongoDB Atlas, ensuring reliable data storage and retrieval.
 * Express Framework: Utilizes Express for handling HTTP requests, simplifying routing and middleware management.
+* MongoDB Atlas: Database management handled by MongoDB Atlas, ensuring reliable data storage and retrieval.
 * Nodemon: Development made easy with Nodemon, which automatically restarts the server upon file changes.
 * HTML & CSS: Simple and elegant user interface crafted with HTML and CSS for a smooth user experience.
-* Insomnia Testing: Endpoints thoroughly tested using the Insomnia API client to ensure reliability and functionality.
+* Insomnia Testing: Endpoints thoroughly tested using the Insomnia API client to ensure reliability and functionality before linking with the front end!.
 
 # Uploading file !
 ![](images/file%20upload.png)
